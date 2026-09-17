@@ -28,7 +28,7 @@ Artificial Intelligence · Computer Vision · Data Analysis · Graph Neural Netw
 ### 🛠️ Technologies I've worked with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,r,matlab,bash,docker,vscode,linux,md,mysql,postgres,mongodb,pytorch,tensorflow,opencv,sklearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,r,matlab,octave,latex,bash,docker,vscode,linux,md,mysql,postgres,mongodb,pytorch,tensorflow,opencv,sklearn,anaconda,raspberrypi,arduino&perline=10" />
 </p>
 
 ---
@@ -38,8 +38,4 @@ Artificial Intelligence · Computer Vision · Data Analysis · Graph Neural Netw
 <p align="center">
   <img height="165" src="https://github-readme-stats-lemon-beta-88.vercel.app/api?username=aldrinchp&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats-lemon-beta-88.vercel.app/api/top-langs/?username=aldrinchp&layout=donut&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aldrinchp&hide_border=true" />
 </p>
