@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Aldrin Chávez 👋</h1>
+<h1 align="center">Hi, I'm Aldrin Chávez 👋</h1>
 
 <p align="center">
-  Estudiante de décimo semestre de <b>Ciencias Computacionales</b> en <a href="https://www.yachaytech.edu.ec/">Yachay Tech</a> 🇪🇨
+  Data Scientist | AI & Computer Vision Researcher 🇪🇨
 </p>
 
 <p align="center">
@@ -15,66 +15,29 @@
 
 ---
 
-### 🔬 En lo que estoy trabajando
+### 🙋 About me
 
-- 🧠 Investigación en **Redes Neuronales de Grafos (GNN)**, actualmente aplicadas al análisis de **electroencefalogramas (EEG)**.
-- 👁️ **Visión computacional**: detección de animales en cámaras trampa para monitoreo de fauna.
-- 📈 **Simulación de modelos** a partir de ecuaciones diferenciales (modelos epidemiológicos), resueltos con **Runge-Kutta** y métodos adaptativos.
+I'm a Computer Science professional-in-training (Yachay Tech) passionate about Artificial Intelligence and its applications. I currently research **Graph Neural Networks (GNNs)** applied to **EEG (electroencephalogram)** analysis. I've also worked on **computer vision** projects for animal detection in camera traps, and I'm interested in **model simulation** based on differential equations, such as epidemiological models.
 
-### 🎯 Intereses
+### 🎯 Interests
 
-Inteligencia Artificial · Visión Computacional · Análisis de Datos · Redes Neuronales de Grafos · Simulación Numérica
+Artificial Intelligence · Computer Vision · Data Analysis · Graph Neural Networks · Numerical Simulation
 
 ---
 
-### 🛠️ Stack tecnológico
+### 🛠️ Technologies I've worked with
 
-**Lenguajes**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
-**IA / Visión Computacional / Ciencia de Datos**
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
-
-**Bases de datos**
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-**Herramientas**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,r,matlab,bash,docker,vscode,linux,md,mysql,postgres,mongodb,pytorch,tensorflow,opencv,sklearn&perline=10" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldrinchp&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinchp&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinchp&layout=donut&hide_border=true" />
 </p>
 
 <p align="center">
