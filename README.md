@@ -36,8 +36,8 @@ Artificial Intelligence · Computer Vision · Data Analysis · Graph Neural Netw
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldrinchp&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinchp&layout=donut&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-lemon-beta-88.vercel.app/api?username=aldrinchp&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-lemon-beta-88.vercel.app/api/top-langs/?username=aldrinchp&layout=donut&hide_border=true" />
 </p>
 
 <p align="center">
